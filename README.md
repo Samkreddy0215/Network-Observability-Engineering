@@ -1,2 +1,19 @@
-# Network-Observability-Engineering
-Enterprise network observability, telemetry collection, monitoring dashboards, alerting frameworks, and performance analytics using modern observability platforms.
+## Topics Covered
+
+- Network Observability
+- Telemetry Collection
+- Metrics Analysis
+- Alerting Frameworks
+- Grafana
+- Prometheus
+- Splunk
+- NetFlow
+- SNMP
+- Performance Analytics
+
+## Automation Projects
+
+- Telemetry Health Checks
+- Monitoring Validation
+- Alert Verification
+- Dashboard Data Collection
